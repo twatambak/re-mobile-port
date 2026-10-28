@@ -1,0 +1,9 @@
+D:\Projetos\RE-Mobile-Decomp\Tools\Harness\Core\obj\Debug\netstandard2.1\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\RE-Mobile-Decomp\Tools\Harness\Core\obj\Debug\netstandard2.1\Core.AssemblyInfoInputs.cache
+D:\Projetos\RE-Mobile-Decomp\Tools\Harness\Core\obj\Debug\netstandard2.1\Core.AssemblyInfo.cs
+D:\Projetos\RE-Mobile-Decomp\Tools\Harness\Core\obj\Debug\netstandard2.1\Core.csproj.CoreCompileInputs.cache
+D:\Projetos\RE-Mobile-Decomp\Tools\Harness\Core\bin\Debug\netstandard2.1\J2ME.Core.deps.json
+D:\Projetos\RE-Mobile-Decomp\Tools\Harness\Core\bin\Debug\netstandard2.1\J2ME.Core.dll
+D:\Projetos\RE-Mobile-Decomp\Tools\Harness\Core\bin\Debug\netstandard2.1\J2ME.Core.pdb
+D:\Projetos\RE-Mobile-Decomp\Tools\Harness\Core\obj\Debug\netstandard2.1\J2ME.Core.dll
+D:\Projetos\RE-Mobile-Decomp\Tools\Harness\Core\obj\Debug\netstandard2.1\J2ME.Core.pdb

@@ -1,0 +1,13 @@
+D:\Projetos\RE-Mobile-Decomp\Tools\Harness\UnityCheck\bin\Debug\netstandard2.1\UnityCheck.deps.json
+D:\Projetos\RE-Mobile-Decomp\Tools\Harness\UnityCheck\bin\Debug\netstandard2.1\UnityCheck.dll
+D:\Projetos\RE-Mobile-Decomp\Tools\Harness\UnityCheck\bin\Debug\netstandard2.1\UnityCheck.pdb
+D:\Projetos\RE-Mobile-Decomp\Tools\Harness\UnityCheck\bin\Debug\netstandard2.1\J2ME.Core.dll
+D:\Projetos\RE-Mobile-Decomp\Tools\Harness\UnityCheck\bin\Debug\netstandard2.1\J2ME.Core.pdb
+D:\Projetos\RE-Mobile-Decomp\Tools\Harness\UnityCheck\obj\Debug\netstandard2.1\UnityCheck.csproj.AssemblyReference.cache
+D:\Projetos\RE-Mobile-Decomp\Tools\Harness\UnityCheck\obj\Debug\netstandard2.1\UnityCheck.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\RE-Mobile-Decomp\Tools\Harness\UnityCheck\obj\Debug\netstandard2.1\UnityCheck.AssemblyInfoInputs.cache
+D:\Projetos\RE-Mobile-Decomp\Tools\Harness\UnityCheck\obj\Debug\netstandard2.1\UnityCheck.AssemblyInfo.cs
+D:\Projetos\RE-Mobile-Decomp\Tools\Harness\UnityCheck\obj\Debug\netstandard2.1\UnityCheck.csproj.CoreCompileInputs.cache
+D:\Projetos\RE-Mobile-Decomp\Tools\Harness\UnityCheck\obj\Debug\netstandard2.1\UnityCheck.csproj.Up2Date
+D:\Projetos\RE-Mobile-Decomp\Tools\Harness\UnityCheck\obj\Debug\netstandard2.1\UnityCheck.dll
+D:\Projetos\RE-Mobile-Decomp\Tools\Harness\UnityCheck\obj\Debug\netstandard2.1\UnityCheck.pdb

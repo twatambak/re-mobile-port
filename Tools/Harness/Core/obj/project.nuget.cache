@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "hqcwBK0ZmF8=",
+  "success": true,
+  "projectFilePath": "D:\\Projetos\\RE-Mobile-Decomp\\Tools\\Harness\\Core\\Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\twata\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\twata\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\twata\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\twata\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.3\\system.runtime.compilerservices.unsafe.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

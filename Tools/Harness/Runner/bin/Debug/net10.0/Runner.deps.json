@@ -1,0 +1,52 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Runner/1.0.0": {
+        "dependencies": {
+          "J2ME.Core": "1.0.0",
+          "J2ME.Core.Reference": "1.0.0.0"
+        },
+        "runtime": {
+          "Runner.dll": {}
+        }
+      },
+      "J2ME.Core/1.0.0": {
+        "runtime": {
+          "J2ME.Core.dll": {
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "J2ME.Core.Reference/1.0.0.0": {
+        "runtime": {
+          "J2ME.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Runner/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "J2ME.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "J2ME.Core.Reference/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

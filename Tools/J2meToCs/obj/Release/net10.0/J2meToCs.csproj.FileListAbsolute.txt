@@ -1,0 +1,14 @@
+D:\Projetos\RE-Mobile-Decomp\Tools\J2meToCs\bin\Release\net10.0\J2meToCs.exe
+D:\Projetos\RE-Mobile-Decomp\Tools\J2meToCs\bin\Release\net10.0\J2meToCs.deps.json
+D:\Projetos\RE-Mobile-Decomp\Tools\J2meToCs\bin\Release\net10.0\J2meToCs.runtimeconfig.json
+D:\Projetos\RE-Mobile-Decomp\Tools\J2meToCs\bin\Release\net10.0\J2meToCs.dll
+D:\Projetos\RE-Mobile-Decomp\Tools\J2meToCs\bin\Release\net10.0\J2meToCs.pdb
+D:\Projetos\RE-Mobile-Decomp\Tools\J2meToCs\obj\Release\net10.0\J2meToCs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\RE-Mobile-Decomp\Tools\J2meToCs\obj\Release\net10.0\J2meToCs.AssemblyInfoInputs.cache
+D:\Projetos\RE-Mobile-Decomp\Tools\J2meToCs\obj\Release\net10.0\J2meToCs.AssemblyInfo.cs
+D:\Projetos\RE-Mobile-Decomp\Tools\J2meToCs\obj\Release\net10.0\J2meToCs.csproj.CoreCompileInputs.cache
+D:\Projetos\RE-Mobile-Decomp\Tools\J2meToCs\obj\Release\net10.0\J2meToCs.dll
+D:\Projetos\RE-Mobile-Decomp\Tools\J2meToCs\obj\Release\net10.0\refint\J2meToCs.dll
+D:\Projetos\RE-Mobile-Decomp\Tools\J2meToCs\obj\Release\net10.0\J2meToCs.pdb
+D:\Projetos\RE-Mobile-Decomp\Tools\J2meToCs\obj\Release\net10.0\J2meToCs.genruntimeconfig.cache
+D:\Projetos\RE-Mobile-Decomp\Tools\J2meToCs\obj\Release\net10.0\ref\J2meToCs.dll

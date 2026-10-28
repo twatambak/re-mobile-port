@@ -1,0 +1,44 @@
+// Transpiled from Java (class_26.java) by Tools/J2meToCs. Regenerate rather than hand-edit where possible.
+#pragma warning disable CS0162, CS0164, CS0168, CS0169, CS0219, CS0414, CS0649, CS1717, CS0108, CS0659, CS0661
+using J2ME;
+
+namespace REUprising.Gameloft
+{
+// $VF: renamed from: aa
+public class ActorGroup {
+   static ActorGroup() { }
+
+   // $VF: renamed from: a p
+   public ActorState actorStateReference01;
+   // $VF: renamed from: a byte
+   public sbyte byteValue01;
+   // $VF: renamed from: a s[]
+   public EntitySnapshot[] entitySnapshotReferenceArray01;
+   // $VF: renamed from: b byte
+   public sbyte byteValue02;
+   // $VF: renamed from: c byte
+   public sbyte byteValue03;
+   // $VF: renamed from: a byte[]
+   public sbyte[] byteArray01;
+   // $VF: renamed from: d byte
+   public sbyte byteValue04;
+   // $VF: renamed from: a boolean
+   public bool booleanFlag01;
+   // $VF: renamed from: b boolean
+   public bool booleanFlag02;
+   // $VF: renamed from: c boolean
+   public bool booleanFlag03;
+   // $VF: renamed from: e byte
+   public sbyte byteValue05;
+   // $VF: renamed from: d boolean
+   public bool booleanFlag04;
+   // $VF: renamed from: a f
+   public GameCanvas gameCanvasReference01;
+
+   public ActorGroup(GameCanvas var1) {
+      this.gameCanvasReference01 = var1;
+      this.actorStateReference01 = new ActorState(this.gameCanvasReference01);
+      this.byteArray01 = new sbyte[6];
+   }
+}
+}

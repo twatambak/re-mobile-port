@@ -1,0 +1,17 @@
+{
+    "name": "J2ME.Unity",
+    "rootNamespace": "J2ME.Unity",
+    "references": [
+        "J2ME.Runtime",
+        "Unity.InputSystem"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

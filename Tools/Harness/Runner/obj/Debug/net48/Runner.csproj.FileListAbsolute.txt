@@ -1,0 +1,17 @@
+D:\Projetos\RE-Mobile-Decomp\Tools\Harness\Runner\bin\Debug\net48\Runner.exe.config
+D:\Projetos\RE-Mobile-Decomp\Tools\Harness\Runner\bin\Debug\net48\Runner.exe
+D:\Projetos\RE-Mobile-Decomp\Tools\Harness\Runner\bin\Debug\net48\Runner.pdb
+D:\Projetos\RE-Mobile-Decomp\Tools\Harness\Runner\bin\Debug\net48\System.Buffers.dll
+D:\Projetos\RE-Mobile-Decomp\Tools\Harness\Runner\bin\Debug\net48\System.Memory.dll
+D:\Projetos\RE-Mobile-Decomp\Tools\Harness\Runner\bin\Debug\net48\System.Numerics.Vectors.dll
+D:\Projetos\RE-Mobile-Decomp\Tools\Harness\Runner\bin\Debug\net48\System.Runtime.CompilerServices.Unsafe.dll
+D:\Projetos\RE-Mobile-Decomp\Tools\Harness\Runner\bin\Debug\net48\J2ME.Core.dll
+D:\Projetos\RE-Mobile-Decomp\Tools\Harness\Runner\bin\Debug\net48\J2ME.Core.pdb
+D:\Projetos\RE-Mobile-Decomp\Tools\Harness\Runner\obj\Debug\net48\Runner.csproj.AssemblyReference.cache
+D:\Projetos\RE-Mobile-Decomp\Tools\Harness\Runner\obj\Debug\net48\Runner.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\RE-Mobile-Decomp\Tools\Harness\Runner\obj\Debug\net48\Runner.AssemblyInfoInputs.cache
+D:\Projetos\RE-Mobile-Decomp\Tools\Harness\Runner\obj\Debug\net48\Runner.AssemblyInfo.cs
+D:\Projetos\RE-Mobile-Decomp\Tools\Harness\Runner\obj\Debug\net48\Runner.csproj.CoreCompileInputs.cache
+D:\Projetos\RE-Mobile-Decomp\Tools\Harness\Runner\obj\Debug\net48\Runner.csproj.Up2Date
+D:\Projetos\RE-Mobile-Decomp\Tools\Harness\Runner\obj\Debug\net48\Runner.exe
+D:\Projetos\RE-Mobile-Decomp\Tools\Harness\Runner\obj\Debug\net48\Runner.pdb

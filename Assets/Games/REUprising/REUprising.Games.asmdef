@@ -1,0 +1,16 @@
+{
+    "name": "REUprising.Games",
+    "rootNamespace": "REUprising",
+    "references": [
+        "J2ME.Runtime"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": true
+}

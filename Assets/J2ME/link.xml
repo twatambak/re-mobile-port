@@ -1,0 +1,5 @@
+<!-- MIDlet classes are instantiated by name (MIDlet-1 manifest entry); keep them from being stripped. -->
+<linker>
+  <assembly fullname="REUprising.Games" preserve="all"/>
+  <assembly fullname="J2ME.Runtime" preserve="all"/>
+</linker>
